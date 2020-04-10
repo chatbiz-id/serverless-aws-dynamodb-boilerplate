@@ -15,7 +15,7 @@
 
 1. Run serverless create template command from CLI
 
-   `serverless create --template-url https://github.com/chatbiz-id/aws-serverless-boilerplate --path myService`
+   `serverless create --template-url https://github.com/chatbiz-id/serverless-aws-dynamodb-boilerplate --path myService`
 
 2. Open `serverless.yml` and do some config on your `tablename` , `resources`, etc
 
